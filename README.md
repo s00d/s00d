@@ -1,7 +1,7 @@
 <h1><img src="https://raw.githubusercontent.com/s00d/s00d/main/img/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Pavel Kuzmin, Fullstack developer from <img src="https://raw.githubusercontent.com/s00d/s00d/main/img/flag.png" width="13"/> <b>Russia, ufa</b>. </p>
+<p>Welcome to my page! </br> I'm [Pavel Kuzmin](https://s00d.github.io/), Fullstack developer from <img src="https://raw.githubusercontent.com/s00d/s00d/main/img/flag.png" width="13"/> <b>Russia, ufa</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -48,9 +48,9 @@
 </table>
 
 <h3>Welcome to <img src="https://raw.githubusercontent.com/s00d/s00d/main/img/ufa.png" width="13"/> Ufa!</h3>
-<p><img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3D%3DQY5cjZ2gTPkl2cfNmbfZSNElzQwkTM20TZvZiM1ATNwAjN1YWO3ETOxAjYxIWN2ADZhRjN5QjM4gTN10DavZCNtcTPiN2YmEUQBFkQBZUO4UFUB1TbkVmJUVjMnh2XYFUU3AVMvZWQodEeL1zYo92Xj52XmUDMx0DdhN2Xj52Xm02bj5SbhJ3ZhR3culmbkNmLx0SM2VWatQnblRnbvN2c9QHafNmbf9zZwpmLu91M3IDMwkjM1UTMfFjNyYTOxMzM2ADNzUzMwEzX2gzN0IzNx8SNzU2L1ETL1gDOy4SM1Q3L29SbvNmLtFmcnFGdz5WauR2YuETLxYXZp1CduVGdu92Yz9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3D%3DQY5cjZ2gTPkl2cfNmbfZiM3IUOGhTM20TZvZSOxYWZ4EWOwY2MhZDMwIGMhR2NygDO1MmNmhjMklzNk1DavZCNtcTPiN2YmEUQBFkQBZUO4UFUB1TbkVmJ4MWQlNUOYFURtk0aaRXNJpnWn1zYo92Xj52XmcDMx0DdhN2Xj52Xm02bj5SbhJ3ZhR3culmbkNmLx0SM2VWatQnblRnbvN2c9QHafNmbf9zZwpmLu9lMxIDN0ITMwAjMfNjMxEDNxITO1EzM1ITM581NxQDMyQTMx8SNzU2L1ETL1gDOy4SM1Q3L29SbvNmLtFmcnFGdz5WauR2YuETLxYXZp1CduVGdu92Yz9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3D%3DQY5cjZ2gTPkl2cfNmbfZyNFF0NwkTM20TZvZyN2IGOmRmN5czYyAjY2QTZlhTMlFTZkdjN3MWZilzM40DavZCNtcTPiN2YmEUQBFkQBZUO4UFUB1TbkVmJkd2XOBFOYF0apN2N25kVyZnWf1zYo92Xj52XmgDMx0DdhN2Xj52Xm02bj5SbhJ3ZhR3culmbkNmLx0SM2VWatQnblRnbvN2c9QHafNmbf9zZwpmLu9VOzYzMwATM3gTMfBDM2QTM4IzM4IDMycDM08lN5EjNyQTMx8SNzU2L1ETL1gDOy4SM1Q3L29SbvNmLtFmcnFGdz5WauR2YuETLxYXZp1CduVGdu92Yz9yL6MHc0RHa" /></p>
+<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/s00d_/" target="_blank">
-  <img src="https://raw.githubusercontent.com/s00d/s00d/main/img/Instagram_logo_2016.svg.webp.png" width="20"/> @s00d!</a><br/>Currently, the weather is: <b> 5°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>04:32</b> and sets at <b>13:26</b>.</p>
+  <img src="https://raw.githubusercontent.com/s00d/s00d/main/img/Instagram_logo_2016.svg.webp.png" width="20"/> @s00d!</a><br/>Currently, the weather is: <b> 2°C, <i>light rain</i></b></br>Today, the sun rises at <b>04:32</b> and sets at <b>13:26</b>.</p>
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/s00d" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -66,7 +66,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s00d&" alt="s00d" /></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 8 November, 11:11 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 8 November, 16:49 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center">
   <img src="https://github.com/s00d/s00d/workflows/README%20build/badge.svg" />
   <img alt="Stars" src="https://img.shields.io/github/stars/s00d/s00d?style=flat-square&labelColor=343b41"/>
