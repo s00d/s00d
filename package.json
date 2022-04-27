@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/s00d/s00d#readme",
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "mustache": "^4.0.1",
-    "node-fetch": "^2.6.1",
-    "puppeteer": "^5.1.0"
+    "dotenv": "^16.0.0",
+    "mustache": "^4.2.0",
+    "node-fetch": "^3.2.3",
+    "puppeteer": "^13.6.0"
   }
 }

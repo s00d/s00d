@@ -2,7 +2,6 @@ const puppeteer = require('puppeteer');
 class PuppeteerService {
   browser;
   page;
-
   async init() {
     this.browser = await puppeteer.launch({
       args: [
@@ -19,7 +18,6 @@ class PuppeteerService {
       // headless: false,
     });
   }
-
   /**
    *
    * @param {string} url
@@ -40,7 +38,6 @@ class PuppeteerService {
   }
 
   async close() {
-    await this.page.close();
     await this.browser.close();
   }
 
