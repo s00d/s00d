@@ -47,10 +47,6 @@
   </tbody>
 </table>
 
-<h3>Welcome to <img src="https://raw.githubusercontent.com/s00d/s00d/main/img/ufa.png" width="13"/> Ufa!</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/s00d_/" target="_blank">
-  <img src="https://raw.githubusercontent.com/s00d/s00d/main/img/Instagram_logo_2016.svg.webp.png" width="20"/> @s00d!</a><br/>Currently, the weather is: <b> 2°C, <i>light rain</i></b></br>Today, the sun rises at <b>04:32</b> and sets at <b>13:26</b>.</p>
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/s00d" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
