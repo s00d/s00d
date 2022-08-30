@@ -21,6 +21,12 @@ jobs:
           cache: 'npm'
       - name: Install dependencies
         run: npm install
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: s00d
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
       - name: Generate README file
         run: node index.js
         env:
