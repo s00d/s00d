@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/s00d/s00d/main/dist/github-contribution-grid-snake.gif" alt="snake"></center>
 </p>
 
-
 <h1><img src="https://raw.githubusercontent.com/s00d/s00d/main/img/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
 
 <p>Welcome to my page! </br> I'm <a href="https://s00d.github.io/"><b>Pavel Kuzmin</b></a>, Fullstack developer from <img src="https://raw.githubusercontent.com/s00d/s00d/main/img/flag.png" width="13"/> <b>Russia, ufa</b>. </p>
 <h3>Things I code with</h3>
@@ -67,7 +65,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s00d&" alt="s00d" /></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Friday, 2 September at 02:25 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Friday, 2 September at 08:53 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center">
   <img src="https://github.com/s00d/s00d/workflows/README%20build/badge.svg" />
   <img alt="Stars" src="https://img.shields.io/github/stars/s00d/s00d?style=flat-square&labelColor=343b41"/>
