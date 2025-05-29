@@ -135,7 +135,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s00d&" alt="s00d" /></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Wednesday, 28 May at 02:33 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Thursday, 29 May at 02:33 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center">
   <img src="https://github.com/s00d/s00d/workflows/README%20build/badge.svg" />
   <img alt="Stars" src="https://img.shields.io/github/stars/s00d/s00d?style=flat-square&labelColor=343b41"/>
